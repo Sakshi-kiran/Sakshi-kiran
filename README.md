@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Sakshi-kiran
+- 👀 I’m interested in cloud technologies, DevOps, and web development.
+- 🌱 I’m currently learning advanced DevOps tools like Kubernetes, Jenkins, and Terraform.
+- 💞️ I’m looking to collaborate on projects involving CI/CD pipelines, containerization, and cloud infrastructure.
+- 📫 How to reach me: sakshikiran2001@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love solving problems and optimizing systems!
