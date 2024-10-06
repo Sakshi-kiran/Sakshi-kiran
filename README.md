@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sakshi-kiran
+- 👋 Hi, I’m @Sakshi-K
 - 👀 I’m interested in cloud technologies, DevOps, and web development.
 - 🌱 I’m currently learning advanced DevOps tools like Kubernetes, Jenkins, and Terraform.
 - 💞️ I’m looking to collaborate on projects involving CI/CD pipelines, containerization, and cloud infrastructure.
